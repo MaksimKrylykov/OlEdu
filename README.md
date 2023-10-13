@@ -1,6 +1,6 @@
 ## OlEDU - Learn competetive programming FAST
 
-### Screens
+### App screens
 * Main Page
 * Education Page
 * Profile Page
